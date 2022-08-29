@@ -1,0 +1,2 @@
+CREATE DATABASE storedb;
+CREATE DATABASE storetestdb;
